@@ -1,9 +1,36 @@
 {
     "users": [
         {
-            "id": "@Bret",
-            "name": "Leanne Graham",
-            "email": "Sincere@april.biz",
+            "id": "@aldoea",
+            "name": "Aldo Escobar",
+            "organization": "The Human Project",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed haec omittamus; Peccata paria. Duo Reges: constructio interrete. Haec dicuntur inconstantissime. Sed quot homines, tot sententiae; Quid ergo? ",
+            "phoneNumber": "+524612814779",
+            "message": {
+                "subject": "Gusto conocerte {{name}}",
+                "content": "Hola {{name}} me comunico contigo por medio de tu perfil ConectaT, seguimos en contacto, Saludos!"
+            },
+            "email": "aldoea4@gmail.com",
+            "website": "aldoea.github.io",
+            "avatar": "https://api.adorable.io/avatars/190/{{username}}.png",
+            "qrCode": "",
+            "social": [
+                {
+                    "name": "facebook",
+                    "username": "aldo.ea.3",
+                    "url": "https://www.facebook.com/aldo.ea.3"
+                },
+                {
+                    "name": "instagram",
+                    "username": "aldoea",
+                    "url": "https://www.instagram.com/aldoea/"
+                },
+                {
+                    "name": "twitter",
+                    "username": "digitalbroda",
+                    "url": "https://twitter.com/digitalbroda"
+                }
+            ],
             "address": {
                 "street": "Kulas Light",
                 "suite": "Apt. 556",
@@ -13,14 +40,39 @@
                     "lat": "-37.3159",
                     "lng": "81.1496"
                 }
-            },
-            "phone": "1-770-736-8031 x56442",
-            "website": "aldoea.github.io"
+            }
         },
         {
-            "id": "@Antonette",
-            "name": "Ervin Howell",
-            "email": "Shanna@melissa.tv",
+            "id": "@cesaruni",
+            "name": "Cesar Perez",
+            "organization": "Univercity Community",
+            "description": "Comunidad de universitarios enfocados en la creación de contenido de valor.",
+            "phoneNumber": "+524611360284",
+            "message": {
+                "subject": "Gusto conocerte {{name}}",
+                "content": "Hola {{name}} me comunico contigo por medio de tu perfil ConectaT, seguimos en contacto, Saludos!"
+            },
+            "email": "univercity.comunidad@gmail.com",
+            "website": "https://univercitycommunity.com/",
+            "avatar": "https://api.adorable.io/avatars/190/{{username}}.png",
+            "qrCode": "",
+            "social": [
+                {
+                    "name": "facebook",
+                    "username": "UniverCityCommunity",
+                    "url": "https://www.facebook.com/UniverCityCommunity/"
+                },
+                {
+                    "name": "instagram",
+                    "username": "univercity.community",
+                    "url": "https://www.instagram.com/univercity.community/"
+                },
+                {
+                    "name": "twitter",
+                    "username": "UniverCityCom",
+                    "url": "https://twitter.com/UniverCityCom"
+                }
+            ],
             "address": {
                 "street": "Victor Plains",
                 "suite": "Suite 879",
@@ -30,14 +82,39 @@
                     "lat": "-43.9509",
                     "lng": "-34.4618"
                 }
-            },
-            "phone": "010-692-6593 x09125",
-            "website": "aldoea.github.io"
+            }
         },
         {
-            "id": "@Samantha",
-            "name": "Clementine Bauch",
-            "email": "Nathan@yesenia.net",
+            "id": "@Antonette",
+            "name": "Ervin Howell",
+            "organization": "Deckow-Crist",
+            "description": "Proactive didactic contingency synergize scalable supply-chains",
+            "phoneNumber": "+52929983874",
+            "message": {
+                "subject": "Gusto conocerte {{name}}",
+                "content": "Hola {{name}} me comunico contigo por medio de tu perfil ConectaT, seguimos en contacto, Saludos!"
+            },
+            "email": "Shanna@melissa.tv",
+            "website": "anastasia.net",
+            "avatar": "https://api.adorable.io/avatars/190/{{username}}.png",
+            "qrCode": "",
+            "social": [
+                {
+                    "name": "facebook",
+                    "username": "antonette",
+                    "url": "https://www.facebook.com/antonette"
+                },
+                {
+                    "name": "instagram",
+                    "username": "antonette",
+                    "url": "https://www.instagram.com/antonette/"
+                },
+                {
+                    "name": "twitter",
+                    "username": "digitalbroda",
+                    "url": "https://twitter.com/antonette"
+                }
+            ],
             "address": {
                 "street": "Douglas Extension",
                 "suite": "Suite 847",
@@ -47,9 +124,7 @@
                     "lat": "-68.6102",
                     "lng": "-47.0653"
                 }
-            },
-            "phone": "1-463-123-4447",
-            "website": "aldoea.github.io"
+            }
         }
     ]
 }
