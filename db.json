@@ -12,7 +12,7 @@
             },
             "email": "aldoea4@gmail.com",
             "website": "aldoea.github.io",
-            "profile" = {
+            "profile" : {
                 "profileColor": "#eb5972",
                 "secondProfileColor": "#fff"
             },
@@ -58,7 +58,7 @@
             },
             "email": "univercity.comunidad@gmail.com",
             "website": "https://univercitycommunity.com/",
-            "profile" = {
+            "profile": {
                 "profileColor": "#ad8bf2",
                 "secondProfileColor": "#ffffff"
             },
@@ -104,7 +104,7 @@
             },
             "email": "Shanna@melissa.tv",
             "website": "anastasia.net",
-            "profile" = {
+            "profile": {
                 "profileColor": "#81bef1",
                 "secondProfileColor": "#3c3c3c"
             },
