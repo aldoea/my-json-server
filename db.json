@@ -12,6 +12,10 @@
             },
             "email": "aldoea4@gmail.com",
             "website": "aldoea.github.io",
+            "profile" = {
+                "profileColor": "#eb5972",
+                "secondProfileColor": "#fff"
+            },
             "avatar": "https://api.adorable.io/avatars/190/{{username}}.png",
             "qrCode": "",
             "social": [
@@ -54,6 +58,10 @@
             },
             "email": "univercity.comunidad@gmail.com",
             "website": "https://univercitycommunity.com/",
+            "profile" = {
+                "profileColor": "#ad8bf2",
+                "secondProfileColor": "#ffffff"
+            },
             "avatar": "https://api.adorable.io/avatars/190/{{username}}.png",
             "qrCode": "",
             "social": [
@@ -96,6 +104,10 @@
             },
             "email": "Shanna@melissa.tv",
             "website": "anastasia.net",
+            "profile" = {
+                "profileColor": "#81bef1",
+                "secondProfileColor": "#3c3c3c"
+            },
             "avatar": "https://api.adorable.io/avatars/190/{{username}}.png",
             "qrCode": "",
             "social": [
